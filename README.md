@@ -44,6 +44,3 @@ Financial-Management-System
 3. Execute the schema scripts to create tables.
 4. Insert the sample data provided.
 5. Run the query scripts for analysis and output.
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
