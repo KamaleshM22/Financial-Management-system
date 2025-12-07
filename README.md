@@ -11,7 +11,7 @@ This system supports detailed financial reporting, pattern analysis, and budget 
 
 Financial-Management-System 
 - SQL
-    FMSPROJECT.sql
+    fmsproject.sql
 -Documentation
     ER_Diagram.pdf
     Project_Description.pdf
