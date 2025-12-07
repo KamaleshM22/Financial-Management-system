@@ -9,16 +9,13 @@ This system supports detailed financial reporting, pattern analysis, and budget 
 
 ## Project Structure
 
-Financial-Management-System/
-│
-├── SQL/
-│   └── FMSPROJECT.sql
-│
-├── Documentation/
-│   ├── ER_Diagram.pdf
-│   └── Project_Description.pdf
-│
-└── README.md
+Financial-Management-System 
+- SQL
+    FMSPROJECT.sql
+-Documentation
+    ER_Diagram.pdf
+    Project_Description.pdf
+-README.md
 
 ## Database Schema (10 Tables)
 
